@@ -1,4 +1,4 @@
-**Introduction**
+# Introduction
 
 Les bancs de poissons sont des phénomènes fascinants de la nature, où des milliers de poissons nagent ensemble de manière synchronisée pour échapper à leurs prédateurs. Ces comportements collectifs peuvent être étudiés et modélisés pour mieux comprendre les interactions entre les animaux et leur environnement.
 

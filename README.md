@@ -11,6 +11,7 @@ L'objectif de cette étude est de mieux comprendre les mécanismes de défense d
 
 
 
+
 ### Le modèle 
 
 Le but de ce code est de simuler le comportement d'un banc de poissons et d'un prédateur dans un environnement 2D. Le code crée un certain nombre d'agents qui représentent les poissons et un agent qui représente le prédateur. Chaque poisson utilise un algorithme comportemental pour interagir avec ses voisins les plus proches, en évitant les collisions, en s'alignant avec les poissons de la même direction et en se rapprochant des poissons les plus proches. Le prédateur, quant à lui, suit un algorithme qui le guide à se rapprocher des poissons et à les chasser pour les manger.

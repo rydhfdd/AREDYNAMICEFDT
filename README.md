@@ -6,7 +6,7 @@ Dans cette étude, nous nous intéressons aux comportements de bancs de poissons
 
 L'objectif de cette étude est de mieux comprendre les mécanismes de défense des bancs de poissons face à un prédateur et d'analyser l'impact de différents facteurs tels que la densité du banc ou la vitesse du prédateur sur leur survie. Les résultats de cette étude pourraient avoir des implications importantes pour la conservation des espèces de poissons en danger et pour la gestion durable des ressources marines.
 
-<img src="https://github.com/rydh.fdd/AREDYNAMICEFDT/raw/main/image/poissonbanc.jpeg">
+<img src="https://github.com/rydhfdd/AREDYNAMICEFDT/raw/main/image/poissonbanc.jpeg">
 
 
 

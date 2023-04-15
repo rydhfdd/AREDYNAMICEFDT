@@ -6,6 +6,11 @@ Dans cette étude, nous nous intéressons aux comportements de bancs de poissons
 
 L'objectif de cette étude est de mieux comprendre les mécanismes de défense des bancs de poissons face à un prédateur et d'analyser l'impact de différents facteurs tels que la densité du banc ou la vitesse du prédateur sur leur survie. Les résultats de cette étude pourraient avoir des implications importantes pour la conservation des espèces de poissons en danger et pour la gestion durable des ressources marines.
 
+<img src="https://github.com/rydh.fdd/AREDYNAMICEFDT/raw/main/image/bancpoison.jpeg">
+
+
+
+
 ### Le modèle 
 
 Le but de ce code est de simuler le comportement d'un banc de poissons et d'un prédateur dans un environnement 2D. Le code crée un certain nombre d'agents qui représentent les poissons et un agent qui représente le prédateur. Chaque poisson utilise un algorithme comportemental pour interagir avec ses voisins les plus proches, en évitant les collisions, en s'alignant avec les poissons de la même direction et en se rapprochant des poissons les plus proches. Le prédateur, quant à lui, suit un algorithme qui le guide à se rapprocher des poissons et à les chasser pour les manger.

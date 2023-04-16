@@ -50,7 +50,7 @@ La simulation est limitée à un environnement 2D, alors que dans la réalité, 
 En résumé, cette simulation est une bonne introduction aux comportements collectifs des animaux, mais elle présente des limites en termes de réalisme et de complexité.
 
 ### Liens:
-- Bibliographie : <https://github.com/rydhfdd/AREDYNAMICEFDT/blob/101a806c7ad0b23b519f22c3760074c1b3923514/ARE-DYNAMIC_FOUDAD-TANG-EGUIZABAL-DANET_Carnet%20de%20bord%20(2).pdf>
-- Présentation : <https://github.com/rydhfdd/AREDYNAMICEFDT/blob/101a806c7ad0b23b519f22c3760074c1b3923514/PRESENTATION%20ARE%20DYNAMIC.pdf>
+- [Bibliographue](https://github.com/rydhfdd/AREDYNAMICEFDT/blob/101a806c7ad0b23b519f22c3760074c1b3923514/ARE-DYNAMIC_FOUDAD-TANG-EGUIZABAL-DANET_Carnet%20de%20bord%20(2).pdf)
+- Présentation: (https://github.com/rydhfdd/AREDYNAMICEFDT/blob/101a806c7ad0b23b519f22c3760074c1b3923514/PRESENTATION%20ARE%20DYNAMIC.pdf)
 
 

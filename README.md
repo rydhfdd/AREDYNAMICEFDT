@@ -33,7 +33,9 @@ Le but de cette simulation est d'illustrer comment les poissons peuvent former d
 
 <img src="https://github.com/rydhfdd/AREDYNAMICEFDT/raw/main/image/MODELE.png">
 
-
+- Le prédateur est représenté en rouge 
+- Les poissons en bleu
+- Et en haut nous avons mis un compteur de poissons mangés
 
 
 

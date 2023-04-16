@@ -80,7 +80,7 @@ class Agent:
         elif self.position[1] > height:
             self.position[1] = height
             self.heading[1] = -self.heading[1]
-
+    
 def display_eaten_count():
     global eaten_count
     font = pygame.font.Font(None, 25)

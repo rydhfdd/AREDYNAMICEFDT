@@ -17,10 +17,10 @@ Comment les agents autonomes interagissent-ils et se coordonnent-ils pour manife
 
 ### L'équipe
 
-*** FOUDAD Ryadh***
-*** TANG Ziyan***
-*** DANET Aurelien***
-*** EGUIZABAL Alexandre***
+**FOUDAD Ryadh**
+**TANG Ziyan**
+**DANET Aurelien**
+**EGUIZABAL Alexandre**
 
 
 ### Le modèle 

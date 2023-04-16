@@ -39,3 +39,15 @@ Le but de cette simulation est d'illustrer comment les poissons peuvent former d
 
 Lien vers le programme complet : <https://github.com/rydhfdd/AREDYNAMICEFDT/blob/29793739263a3264528e19587f27d031fd398e73/CODEARE.py>  
 
+### Analyse critique
+
+Cette simulation est une bonne illustration des comportements collectifs de certains animaux, tels que les bancs de poissons ou les essaims d'oiseaux. Cependant, elle présente certaines limites, telles que :
+
+Les agents sont modélisés comme des points sans dimension, alors que dans la réalité, les animaux ont des formes et des tailles différentes.
+Les comportements des agents sont déterminés par des règles fixes, alors que dans la réalité, ils peuvent être influencés par de nombreux facteurs externes tels que les prédateurs, les conditions météorologiques ou les ressources alimentaires disponibles.
+La simulation ne prend pas en compte les comportements individuels des agents. Les agents sont tous identiques et n'ont pas de personnalité ou de caractéristiques individuelles qui pourraient influencer leur comportement.
+La simulation est limitée à un environnement 2D, alors que dans la réalité, les animaux évoluent dans des environnements 3D complexes.
+En résumé, cette simulation est une bonne introduction aux comportements collectifs des animaux, mais elle présente des limites en termes de réalisme et de complexité.
+
+### Liens:
+

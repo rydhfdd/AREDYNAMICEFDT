@@ -31,7 +31,7 @@ La simulation est basée sur plusieurs paramètres tels que la vitesse des poiss
 
 Le but de cette simulation est d'illustrer comment les poissons peuvent former des bancs en utilisant des règles simples et locales d'interaction avec leurs voisins. En outre, la simulation permet de visualiser comment les prédateurs peuvent chasser et se nourrir de poissons dans un environnement naturel.
 
-
+<img src="https://github.com/rydhfdd/AREDYNAMICEFDT/raw/main/image/MODELE.png">
 
 
 
